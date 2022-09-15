@@ -3,6 +3,7 @@
 - 📝 Actuellement en train d'apprendre : HTML, CSS, JS, PHP, etc...
 - 💞️ Le voyage *: Cambodge, Thaïlade, Corée, Bruxelles*
 <br><br>
+- 💞️ Le sport *: badminton , volley*
 
 Mon mail [eapceline@gmail.com] <br>
 Mon profil [LinkedIn](https://www.linkedin.com/in/c%C3%A9line-eap)
