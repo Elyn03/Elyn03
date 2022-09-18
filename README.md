@@ -10,7 +10,7 @@
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"> 
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> <br> </p>
 
-📝 Connaissance en :
+Connaissance en :
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> 
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> <br>
@@ -20,7 +20,7 @@
 <br>
 
 Me retrouvez : <br>
-Mon mail [eapceline@gmail.com] <br>
-Mon profil [LinkedIn](https://www.linkedin.com/in/c%C3%A9line-eap)
+[<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg">](eapceline@gmail.com) 
+[<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/c%C3%A9line-eap) <br>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Elyn03&show_icons=true)
