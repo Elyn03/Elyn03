@@ -1,6 +1,12 @@
 # 👋 Hi, ici Céline Eap
 - 🌱 En 2ème année en Bachelor Coding & Digital Innovation
-- 📝 Actuellement en train d'apprendre : HTML, CSS, JS, PHP, etc...
+- 📝 Apprentissage continu de : <br>
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">, 
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">, 
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">, 
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">, 
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">, 
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> <br>
 - 💞️ Le voyage *: Cambodge, Thaïlade, Corée, Bruxelles*
 - 💞️ Le sport *: badminton , volley*
 <br>
