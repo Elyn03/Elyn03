@@ -19,7 +19,9 @@
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"> 
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> <br> </p>
 
-#### Contact : <br>
+
+Contacter-moi : eapceline@gmail.com <br>
+Ajoutez-moi : <br>
 [<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/c%C3%A9line-eap) <br>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Elyn03&show_icons=true)
