@@ -5,5 +5,8 @@
 - 💞️ Le sport *: badminton , volley*
 <br>
 
+Me retrouvez : <br>
 Mon mail [eapceline@gmail.com] <br>
 Mon profil [LinkedIn](https://www.linkedin.com/in/c%C3%A9line-eap)
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=Elyn03&show_icons=true)
