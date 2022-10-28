@@ -1,4 +1,4 @@
-# Hi guys, ici @Elyn
+# Hi guys, ici @Elyn03
 
 🌱 En 2ème année en Bachelor Coding & Digital Innovation à l'IIM <br>
 💞️ Le voyage *: Cambodge, Thaïlade, Corée, Bruxelles* <br>
