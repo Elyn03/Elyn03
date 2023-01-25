@@ -11,6 +11,7 @@
     <li><b>Statut:</b> 2nd year student in Coding & Digital Innovation (IIM)</li>
     <li><b>Loves:</b> music, manga, anime, webtoon, genshin impact</li>
     <li><b>Hobbies:</b> Graphic Design, Web Development</li>
+    <li><b>Travel:</b> Cambodia, Thailand, Belgium, Korea</li>
     <br><br><br><br><br>
   </div>
 </div>
@@ -54,6 +55,6 @@
 </div>
 </div>
 
-<br> [<img src="https://img.shields.io/badge/-LINKEDIN-blue">](https://www.linkedin.com/in/c%C3%A9line-eap) <br>
+//<-- <br> [<img src="https://img.shields.io/badge/-LINKEDIN-blue">](https://www.linkedin.com/in/c%C3%A9line-eap) <br>-->
 
 <!-- ![GHstats](https://github-readme-stats.vercel.app/api?username=Elyn03&show_icons=true) -->
