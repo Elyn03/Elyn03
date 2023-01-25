@@ -8,9 +8,9 @@
       <img src="https://media.giphy.com/media/cRfnmVzTnPTNe/giphy.gif" width="400px" align="right">
     </div>
     <li><b>Name:</b> Céline</li>
-    <li><b>Statut:</b> 2nd year student Coding & Digital Innovation (IIM)</li>
+    <li><b>Statut:</b> 2nd year student in Coding & Digital Innovation (IIM)</li>
     <li><b>Loves:</b> music, manga, anime, webtoon, genshin impact</li>
-    <li><b>Hobbys:</b> Graphic Design, Web Development</li>
+    <li><b>Hobbies:</b> Graphic Design, Web Development</li>
     <br><br><br><br><br>
   </div>
 </div>
