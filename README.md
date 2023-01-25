@@ -1,7 +1,7 @@
 <h1 align="center">🍁 Hi guys, here's @Elyn03 ~</h1>
 
 <div>
-  <h1 align="center">🍁 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ~</h1>
+  <h2 align="center">🍁 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ~</h2>
 
   <div>
     <div align="center">
@@ -16,7 +16,7 @@
 </div>
   
 <div>
-  <h1 align="center">🍁 𝕊𝕜𝕚𝕝𝕝𝕤 ~</h1>
+  <h2 align="center">🍁 𝕊𝕜𝕚𝕝𝕝𝕤 ~</h2>
 
   <div>
     <div align="center">
@@ -44,16 +44,16 @@
 </div>
 
 <div>
-<h1 align="center">🍁 𝕄𝕪 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 ~</h1>
+<h2 align="center">🍁 𝕄𝕪 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 ~</h2>
 <div>
     <div align="center">
-      <img src="https://media.giphy.com/media/NfBQ73MtvPJS/giphy.gif" width="400px" align="right">
+      <img src="https://media.giphy.com/media/AMx5NSwJKQnsY/giphy.gif" width="400px" align="right">
     </div>
     Don't hesitate to contact me for more information ;)
   </div>
 </div>
 </div>
 
-[<img src="https://img.shields.io/badge/-LINKEDIN-blue">](https://www.linkedin.com/in/c%C3%A9line-eap) <br>
+<br> [<img src="https://img.shields.io/badge/-LINKEDIN-blue">](https://www.linkedin.com/in/c%C3%A9line-eap) <br>
 
 <!-- ![GHstats](https://github-readme-stats.vercel.app/api?username=Elyn03&show_icons=true) -->
