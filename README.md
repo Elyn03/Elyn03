@@ -8,10 +8,10 @@
       <img src="https://media.giphy.com/media/37Md3lHS7s6k2tHIp7/giphy.gif" width="400px" align="right">
     </div>
     <li><b>Name:</b> Céline</li>
-    <li><b>Statut:</b> 2nd year student in Coding & Digital Innovation (IIM)</li>
-    <li><b>Loves:</b> music, manga, anime, webtoon, genshin impact</li>
+    <li><b>Statut:</b> 3rd year student in Coding & Digital Innovation (IIM)</li>
+    <li><b>Loves:</b> music, manga, webtoon, genshin impact, food</li>
     <li><b>Hobbies:</b> drawing, graphic design, web development</li>
-    <li><b>Travel:</b> Cambodia, Thailand, Belgium, Korea</li>
+    <li><b>Travel:</b> Cambodia, Thailand, Belgium, Korea, Sweden</li>
     <br><br><br><br><br>
   </div>
 </div>
